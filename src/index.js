@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { GoodMorning } from "./components/GoodMorning";
+import { GoodMorning } from "./children/GoodMorning";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 
